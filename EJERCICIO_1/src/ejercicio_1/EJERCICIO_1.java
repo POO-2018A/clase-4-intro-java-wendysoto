@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class EJERCICIO_1 {
 
     /**
-     * @param args the command line arguments
+     * ejercicio
      */
     public static void main(String[] args) {
          System.out.println("ESCUELA DE FORMACION DE TECNOLOGOS");
